@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="420" style="background:#1e1e1e; font-family:Arial,sans-serif;">
+<rect width="750" height="420" fill="#1e1e1e"/>
+<text x="375.0" y="32" fill="#00d2ff" font-size="18" font-weight="bold" text-anchor="middle">Medicine-wise Total Sales (Quantity Sold)</text>
+<text x="150" y="69.0" fill="#ffffff" font-size="12" text-anchor="end">Paracetamol</text>
+<rect x="160" y="50" width="540.0" height="28" rx="4" fill="#4CAF50" />
+<text x="708.0" y="69.0" fill="#00ffcc" font-size="12" font-weight="bold">152</text>
+<text x="150" y="105.0" fill="#ffffff" font-size="12" text-anchor="end">Dolo 650</text>
+<rect x="160" y="86" width="170.52631578947367" height="28" rx="4" fill="#2196F3" />
+<text x="338.52631578947364" y="105.0" fill="#00ffcc" font-size="12" font-weight="bold">48</text>
+<text x="150" y="141.0" fill="#ffffff" font-size="12" text-anchor="end">Azithromycin 500</text>
+<rect x="160" y="122" width="53.28947368421053" height="28" rx="4" fill="#FF9800" />
+<text x="221.28947368421052" y="141.0" fill="#00ffcc" font-size="12" font-weight="bold">15</text>
+<text x="150" y="177.0" fill="#ffffff" font-size="12" text-anchor="end">Benadryl Syrup</text>
+<rect x="160" y="158" width="49.73684210526316" height="28" rx="4" fill="#E91E63" />
+<text x="217.73684210526315" y="177.0" fill="#00ffcc" font-size="12" font-weight="bold">14</text>
+<text x="150" y="213.0" fill="#ffffff" font-size="12" text-anchor="end">Vitamin C 500</text>
+<rect x="160" y="194" width="35.526315789473685" height="28" rx="4" fill="#9C27B0" />
+<text x="203.5263157894737" y="213.0" fill="#00ffcc" font-size="12" font-weight="bold">10</text>
+<text x="150" y="249.0" fill="#ffffff" font-size="12" text-anchor="end">Multivitamin Softgels</text>
+<rect x="160" y="230" width="35.526315789473685" height="28" rx="4" fill="#00BCD4" />
+<text x="203.5263157894737" y="249.0" fill="#00ffcc" font-size="12" font-weight="bold">10</text>
+<text x="150" y="285.0" fill="#ffffff" font-size="12" text-anchor="end">Metformin 500</text>
+<rect x="160" y="266" width="7.105263157894736" height="28" rx="4" fill="#FFC107" />
+<text x="175.10526315789474" y="285.0" fill="#00ffcc" font-size="12" font-weight="bold">2</text>
+<text x="150" y="321.0" fill="#ffffff" font-size="12" text-anchor="end">Cetirizine</text>
+<rect x="160" y="302" width="3.552631578947368" height="28" rx="4" fill="#009688" />
+<text x="171.55263157894737" y="321.0" fill="#00ffcc" font-size="12" font-weight="bold">1</text>
+<line x1="160" y1="50" x2="160" y2="360" stroke="#555555" stroke-width="2"/>
+<line x1="160" y1="360" x2="700" y2="360" stroke="#555555" stroke-width="2"/>
+</svg>

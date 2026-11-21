@@ -1,0 +1,6 @@
+supplier_id,supplier_name,phone,email,address
+S101,ABC Medicals,9876543210,orders@abcmedicals.com,"124 Anna Salai, Chennai"
+S102,Sri Pharma,9876543211,contact@sripharma.com,"45 Perundurai Road, Erode"
+S103,Health Distributors,9876543212,info@healthdist.com,"88 Cross Cut Road, Coimbatore"
+S104,MedLife Suppliers,9876543213,sales@medlifesuppliers.com,"12 Brough Road, Erode"
+S105,Apex Pharmaceuticals,9876543214,support@apexpharma.in,"67 Gandhipuram, Coimbatore"

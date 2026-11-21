@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="420" style="background:#1e1e1e; font-family:Arial,sans-serif;">
+<rect width="750" height="420" fill="#1e1e1e"/>
+<text x="375.0" y="32" fill="#00d2ff" font-size="18" font-weight="bold" text-anchor="middle">Low Stock Critical Items</text>
+<text x="150" y="69.0" fill="#ffffff" font-size="12" text-anchor="end">Dolo 650</text>
+<rect x="160" y="50" width="0.0" height="28" rx="4" fill="#4CAF50" />
+<text x="168.0" y="69.0" fill="#00ffcc" font-size="12" font-weight="bold">0</text>
+<text x="150" y="105.0" fill="#ffffff" font-size="12" text-anchor="end">Omeprazole 20</text>
+<rect x="160" y="86" width="0.0" height="28" rx="4" fill="#2196F3" />
+<text x="168.0" y="105.0" fill="#00ffcc" font-size="12" font-weight="bold">0</text>
+<text x="150" y="141.0" fill="#ffffff" font-size="12" text-anchor="end">Montelukast 10</text>
+<rect x="160" y="122" width="180.0" height="28" rx="4" fill="#FF9800" />
+<text x="348.0" y="141.0" fill="#00ffcc" font-size="12" font-weight="bold">5</text>
+<text x="150" y="177.0" fill="#ffffff" font-size="12" text-anchor="end">Cetirizine</text>
+<rect x="160" y="158" width="288.0" height="28" rx="4" fill="#E91E63" />
+<text x="456.0" y="177.0" fill="#00ffcc" font-size="12" font-weight="bold">8</text>
+<text x="150" y="213.0" fill="#ffffff" font-size="12" text-anchor="end">Pantoprazole 40</text>
+<rect x="160" y="194" width="432.0" height="28" rx="4" fill="#9C27B0" />
+<text x="600.0" y="213.0" fill="#00ffcc" font-size="12" font-weight="bold">12</text>
+<text x="150" y="249.0" fill="#ffffff" font-size="12" text-anchor="end">Ibuprofen 400</text>
+<rect x="160" y="230" width="540.0" height="28" rx="4" fill="#00BCD4" />
+<text x="708.0" y="249.0" fill="#00ffcc" font-size="12" font-weight="bold">15</text>
+<line x1="160" y1="50" x2="160" y2="360" stroke="#555555" stroke-width="2"/>
+<line x1="160" y1="360" x2="700" y2="360" stroke="#555555" stroke-width="2"/>
+</svg>

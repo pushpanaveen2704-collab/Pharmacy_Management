@@ -1,0 +1,16 @@
+medicine_id,name,category,manufacturer,unit_price,expiry_date,reorder_level
+MED101,Paracetamol,Tablet,Sun Pharma,25,2026-12-05,20
+MED102,Amoxicillin,Antibiotic,Cipla,60,2026-10-15,15
+MED103,Cetirizine,Allergy,Dr. Reddy,15,2027-05-20,10
+MED104,Dolo 650,Tablet,Micro Labs,30,2027-08-10,20
+MED105,Azithromycin 500,Antibiotic,Zydus,120,2026-12-10,15
+MED106,Benadryl Syrup,Syrup,Johnson & Johnson,85,2027-03-15,12
+MED107,Metformin 500,Diabetes,USV,45,2027-11-20,25
+MED108,Pantoprazole 40,Antacid,Alkem,55,2026-11-28,15
+MED109,Ibuprofen 400,Painkiller,Abbott,35,2026-09-01,15
+MED110,Vitamin C 500,Vitamin,Abbott,40,2027-09-30,20
+MED111,Atorvastatin 10,Cardiac,Torrent,95,2027-04-12,15
+MED112,Montelukast 10,Allergy,Sun Pharma,75,2026-12-18,10
+MED113,Omeprazole 20,Antacid,Cipla,42,2026-08-20,15
+MED114,Multivitamin Softgels,Vitamin,Dr. Reddy,110,2028-01-15,15
+MED115,Ciprofloxacin 500,Antibiotic,Bayer,68,2027-10-05,15

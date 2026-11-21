@@ -1,0 +1,30 @@
+C:\PharmacySystem> java ExpiryManagementApp
+
+============================================================
+EXPIRY MANAGEMENT
+
+1. View All Expiry Details
+2. View Near Expiry Medicines
+3. View Expired Medicines
+4. View Medicines Expiring This Month
+5. Generate Expiry Report
+6. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 2
+
+============================================================
+                NEAR EXPIRY MEDICINES ALERT
+============================================================
+Enter threshold in days (press Enter for default 30 days): -------------------- EXPIRY ALERT REPORT --------------------
+Medicine ID  Medicine Name        Expiry Date    Status         
+-------------------------------------------------------------
+MED108       Pantoprazole 40      2026-11-28     NEAR EXPIRY    
+MED101       Paracetamol          2026-12-05     NEAR EXPIRY    
+MED105       Azithromycin 500     2026-12-10     NEAR EXPIRY    
+MED112       Montelukast 10       2026-12-18     NEAR EXPIRY    
+-------------------------------------------------------------
+Near Expiry Medicines: 4
+Expired Medicines: 0
+[WARNING] 4 medicine(s) are nearing expiry within 30 days!
+
+Press Enter to continue...

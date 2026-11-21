@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="420" style="background:#1e1e1e; font-family:Arial,sans-serif;">
+<rect width="750" height="420" fill="#1e1e1e"/>
+<text x="375.0" y="32" fill="#00d2ff" font-size="18" font-weight="bold" text-anchor="middle">Available Stock Quantities</text>
+<text x="150" y="61.333333333333336" fill="#ffffff" font-size="12" text-anchor="end">Paracetamol</text>
+<rect x="160" y="50.0" width="540.0" height="12.666666666666666" rx="4" fill="#4CAF50" />
+<text x="708.0" y="61.333333333333336" fill="#00ffcc" font-size="12" font-weight="bold">250</text>
+<text x="150" y="81.99999999999999" fill="#ffffff" font-size="12" text-anchor="end">Vitamin C 500</text>
+<rect x="160" y="70.66666666666666" width="475.2" height="12.666666666666666" rx="4" fill="#2196F3" />
+<text x="643.2" y="81.99999999999999" fill="#00ffcc" font-size="12" font-weight="bold">220</text>
+<text x="150" y="102.66666666666666" fill="#ffffff" font-size="12" text-anchor="end">Metformin 500</text>
+<rect x="160" y="91.33333333333333" width="388.8" height="12.666666666666666" rx="4" fill="#FF9800" />
+<text x="556.8" y="102.66666666666666" fill="#00ffcc" font-size="12" font-weight="bold">180</text>
+<text x="150" y="123.33333333333333" fill="#ffffff" font-size="12" text-anchor="end">Amoxicillin</text>
+<rect x="160" y="112.0" width="259.2" height="12.666666666666666" rx="4" fill="#E91E63" />
+<text x="427.2" y="123.33333333333333" fill="#00ffcc" font-size="12" font-weight="bold">120</text>
+<text x="150" y="144.0" fill="#ffffff" font-size="12" text-anchor="end">Multivitamin Softgels</text>
+<rect x="160" y="132.66666666666666" width="194.4" height="12.666666666666666" rx="4" fill="#9C27B0" />
+<text x="362.4" y="144.0" fill="#00ffcc" font-size="12" font-weight="bold">90</text>
+<text x="150" y="164.66666666666666" fill="#ffffff" font-size="12" text-anchor="end">Ciprofloxacin 500</text>
+<rect x="160" y="153.33333333333331" width="162.0" height="12.666666666666666" rx="4" fill="#00BCD4" />
+<text x="330.0" y="164.66666666666666" fill="#00ffcc" font-size="12" font-weight="bold">75</text>
+<text x="150" y="185.33333333333334" fill="#ffffff" font-size="12" text-anchor="end">Benadryl Syrup</text>
+<rect x="160" y="174.0" width="129.6" height="12.666666666666666" rx="4" fill="#FFC107" />
+<text x="297.6" y="185.33333333333334" fill="#00ffcc" font-size="12" font-weight="bold">60</text>
+<text x="150" y="206.0" fill="#ffffff" font-size="12" text-anchor="end">Azithromycin 500</text>
+<rect x="160" y="194.66666666666666" width="97.2" height="12.666666666666666" rx="4" fill="#009688" />
+<text x="265.2" y="206.0" fill="#00ffcc" font-size="12" font-weight="bold">45</text>
+<text x="150" y="226.66666666666666" fill="#ffffff" font-size="12" text-anchor="end">Atorvastatin 10</text>
+<rect x="160" y="215.33333333333331" width="75.60000000000001" height="12.666666666666666" rx="4" fill="#4CAF50" />
+<text x="243.60000000000002" y="226.66666666666666" fill="#00ffcc" font-size="12" font-weight="bold">35</text>
+<text x="150" y="247.33333333333331" fill="#ffffff" font-size="12" text-anchor="end">Ibuprofen 400</text>
+<rect x="160" y="235.99999999999997" width="32.4" height="12.666666666666666" rx="4" fill="#2196F3" />
+<text x="200.4" y="247.33333333333331" fill="#00ffcc" font-size="12" font-weight="bold">15</text>
+<text x="150" y="267.99999999999994" fill="#ffffff" font-size="12" text-anchor="end">Pantoprazole 40</text>
+<rect x="160" y="256.66666666666663" width="25.92" height="12.666666666666666" rx="4" fill="#FF9800" />
+<text x="193.92000000000002" y="267.99999999999994" fill="#00ffcc" font-size="12" font-weight="bold">12</text>
+<text x="150" y="288.66666666666663" fill="#ffffff" font-size="12" text-anchor="end">Cetirizine</text>
+<rect x="160" y="277.3333333333333" width="17.28" height="12.666666666666666" rx="4" fill="#E91E63" />
+<text x="185.28" y="288.66666666666663" fill="#00ffcc" font-size="12" font-weight="bold">8</text>
+<text x="150" y="309.3333333333333" fill="#ffffff" font-size="12" text-anchor="end">Montelukast 10</text>
+<rect x="160" y="298.0" width="10.8" height="12.666666666666666" rx="4" fill="#9C27B0" />
+<text x="178.8" y="309.3333333333333" fill="#00ffcc" font-size="12" font-weight="bold">5</text>
+<text x="150" y="329.99999999999994" fill="#ffffff" font-size="12" text-anchor="end">Dolo 650</text>
+<rect x="160" y="318.66666666666663" width="0.0" height="12.666666666666666" rx="4" fill="#00BCD4" />
+<text x="168.0" y="329.99999999999994" fill="#00ffcc" font-size="12" font-weight="bold">0</text>
+<text x="150" y="350.66666666666663" fill="#ffffff" font-size="12" text-anchor="end">Omeprazole 20</text>
+<rect x="160" y="339.3333333333333" width="0.0" height="12.666666666666666" rx="4" fill="#FFC107" />
+<text x="168.0" y="350.66666666666663" fill="#00ffcc" font-size="12" font-weight="bold">0</text>
+<line x1="160" y1="50" x2="160" y2="360" stroke="#555555" stroke-width="2"/>
+<line x1="160" y1="360" x2="700" y2="360" stroke="#555555" stroke-width="2"/>
+</svg>

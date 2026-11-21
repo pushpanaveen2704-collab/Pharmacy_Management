@@ -1,0 +1,14 @@
+============================================================
+PHARMACY SALES & INVENTORY STATISTICAL SUMMARY
+Generated Date: 2026-11-20 11:49:33
+============================================================
+
+Total Sales Transactions Analysed : 8
+Mean Sale Transaction Value       : Rs. 1,230.00
+Median Sale Transaction Value     : Rs. 1,150.00
+Standard Deviation of Sales       : Rs. 591.65
+Total Cumulative Revenue          : Rs. 9,840.00
+Pandas Acceleration Installed     : NO (Native Fallback Active)
+Matplotlib Engine Installed       : NO (SVG/ASCII Active)
+
+============================================================

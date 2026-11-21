@@ -1,0 +1,138 @@
+C:\PharmacySystem> java PurchaseManagementApp
+
+============================================================
+PURCHASE MANAGEMENT
+
+1. Record Medicine Purchase
+2. View All Purchases
+3. Search Purchase
+4. View Purchase History
+5. View Supplier-wise Purchases
+6. Generate Purchase Report
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 2
+
+============================================================
+                 ALL PURCHASE TRANSACTIONS
+============================================================
+-------------------- PURCHASE DETAILS --------------------
+Purchase ID  Supplier ID  Total (Rs.)    Items      Date        
+----------------------------------------------------------
+PUR105       S105         5100.00        1          2026-11-18  
+PUR104       S104         12000.00       1          2026-11-15  
+PUR103       S103         4500.00        1          2026-11-10  
+PUR102       S102         9000.00        1          2026-11-05  
+PUR101       S101         7500.00        1          2026-11-01  
+----------------------------------------------------------
+
+Total Purchase Transactions: 5
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+PURCHASE MANAGEMENT
+
+1. Record Medicine Purchase
+2. View All Purchases
+3. Search Purchase
+4. View Purchase History
+5. View Supplier-wise Purchases
+6. Generate Purchase Report
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 3
+
+============================================================
+                   SEARCH PURCHASE RECORD
+============================================================
+Enter Purchase ID: [USER INPUT] > PUR101
+
+------------------------------------------------------------
+Purchase ID          : PUR101
+Supplier             : ABC Medicals (S101)
+Purchase Date        : 2026-11-01
+Total Amount         : Rs. 7,500.00
+------------------------------------------------------------
+Items in Purchase:
+Medicine ID  Name               Batch      Qty      Cost       Subtotal  
+MED101       Paracetamol        BAT2601    300      20.00      6000.00   
+MED103       Cetirizine         BAT2602    50       12.00      600.00    
+------------------------------------------------------------
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+PURCHASE MANAGEMENT
+
+1. Record Medicine Purchase
+2. View All Purchases
+3. Search Purchase
+4. View Purchase History
+5. View Supplier-wise Purchases
+6. Generate Purchase Report
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 5
+
+============================================================
+                  SUPPLIER-WISE PURCHASES
+============================================================
+Enter Supplier ID (e.g. S101): [USER INPUT] > S101
+-------------------- PURCHASE DETAILS --------------------
+Purchase ID  Supplier ID  Total (Rs.)    Items      Date        
+----------------------------------------------------------
+PUR101       S101         7500.00        1          2026-11-01  
+----------------------------------------------------------
+
+Total Orders from Supplier S101: 1
+Total Purchase Outlay: Rs. 7,500.00
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+PURCHASE MANAGEMENT
+
+1. Record Medicine Purchase
+2. View All Purchases
+3. Search Purchase
+4. View Purchase History
+5. View Supplier-wise Purchases
+6. Generate Purchase Report
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 6
+
+============================================================
+            PURCHASE PROCUREMENT SUMMARY REPORT
+============================================================
+-------------------- PURCHASE DETAILS --------------------
+Purchase ID  Supplier ID  Total (Rs.)    Items      Date        
+----------------------------------------------------------
+PUR105       S105         5100.00        1          2026-11-18  
+PUR104       S104         12000.00       1          2026-11-15  
+PUR103       S103         4500.00        1          2026-11-10  
+PUR102       S102         9000.00        1          2026-11-05  
+PUR101       S101         7500.00        1          2026-11-01  
+----------------------------------------------------------
+
+------------------------------------------------------------
+Total Purchase Transactions         : 5
+Total Procurement Expenditure       : Rs. 38,100.00
+Average Purchase Order Value        : Rs. 7,620.00
+------------------------------------------------------------
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+PURCHASE MANAGEMENT
+
+1. Record Medicine Purchase
+2. View All Purchases
+3. Search Purchase
+4. View Purchase History
+5. View Supplier-wise Purchases
+6. Generate Purchase Report
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 7

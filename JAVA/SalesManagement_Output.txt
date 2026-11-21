@@ -1,0 +1,116 @@
+C:\PharmacySystem> java SalesManagementApp
+
+============================================================
+MEDICINE SALES MANAGEMENT
+
+1. Record Medicine Sale
+2. View All Sales
+3. Search Sale
+4. View Daily Sales
+5. View Sales History
+6. Generate Sales Receipt
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 2
+
+============================================================
+              ALL MEDICINE SALES TRANSACTIONS
+============================================================
+-------------------- MEDICINE SALES --------------------
+Sale ID    Sale Date      Customer             Amount (Rs.)
+--------------------------------------------------------
+SL108      2026-11-20     Vijay Narayanan      1150.00     
+SL107      2026-11-20     Meena Kumari         850.00      
+SL106      2026-11-20     Suresh Chandran      2500.00     
+SL105      2026-11-19     Deepa Lakshmi        1250.00     
+SL104      2026-11-18     Anand Babu           940.00      
+SL103      2026-11-17     Karthik Raja         1800.00     
+SL102      2026-11-16     Priya Sundaram       600.00      
+SL101      2026-11-15     Ramesh Kumar         750.00      
+--------------------------------------------------------
+
+Total Sales Transactions: 8
+Cumulative Revenue: Rs. 9,840.00
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+MEDICINE SALES MANAGEMENT
+
+1. Record Medicine Sale
+2. View All Sales
+3. Search Sale
+4. View Daily Sales
+5. View Sales History
+6. Generate Sales Receipt
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 3
+
+============================================================
+                  SEARCH SALE TRANSACTION
+============================================================
+Enter Sale ID: [USER INPUT] > SL101
+
+============================================================
+                PHARMACY DISPENSING RECEIPT
+============================================================
+Receipt No         : SL101
+Date               : 2026-11-15
+Customer           : Ramesh Kumar
+------------------------------------------------------------
+-------------------- MEDICINE SALES --------------------
+Sale ID    Medicine ID  Medicine Name      Qty    Amount    
+--------------------------------------------------------
+SL101      MED101       Paracetamol        20     500.00    
+SL101      MED104       Dolo 650           8      240.00    
+SL101      MED103       Cetirizine         1      15.00     
+--------------------------------------------------------
+TOTAL BILLED AMOUNT            : Rs. 750.00
+============================================================
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+MEDICINE SALES MANAGEMENT
+
+1. Record Medicine Sale
+2. View All Sales
+3. Search Sale
+4. View Daily Sales
+5. View Sales History
+6. Generate Sales Receipt
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 4
+
+============================================================
+                  DAILY SALES TRANSACTIONS
+============================================================
+Enter Date (YYYY-MM-DD, press Enter for Today): [USER INPUT] > 
+-------------------- MEDICINE SALES --------------------
+Sale ID    Sale Date      Customer             Amount (Rs.)
+--------------------------------------------------------
+SL108      2026-11-20     Vijay Narayanan      1150.00     
+SL107      2026-11-20     Meena Kumari         850.00      
+SL106      2026-11-20     Suresh Chandran      2500.00     
+--------------------------------------------------------
+
+Date: 2026-11-20
+Daily Transactions: 3
+Total Daily Revenue: Rs. 4,500.00
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+MEDICINE SALES MANAGEMENT
+
+1. Record Medicine Sale
+2. View All Sales
+3. Search Sale
+4. View Daily Sales
+5. View Sales History
+6. Generate Sales Receipt
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 7

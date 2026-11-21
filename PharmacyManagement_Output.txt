@@ -1,0 +1,655 @@
+C:\PharmacySystem> java PharmacyManagementSystem
+
+============================================================
+PHARMACY MANAGEMENT SYSTEM
+
+         PHARMACY STOCK & SALES ANALYSIS
+============================================================
+
+                MAIN MENU
+
+1. Dashboard
+2. Medicine Management
+3. Supplier Management
+4. Purchase Management
+5. Stock Management
+6. Medicine Sales Management
+7. Sales Analysis & Reports
+8. Expiry Management
+9. Python Data Analysis
+10. Database Management
+11. Exit
+
+============================================================
+Enter your choice: [USER INPUT] > 1
+
+============================================================
+PHARMACY DASHBOARD
+
+                OVERALL SUMMARY
+
+Total Medicines Registered        : 15
+Total Suppliers                   : 5
+Total Purchase Transactions       : 5
+Total Sales Transactions          : 8
+Total Available Stock             : 1115
+Total Medicines Sold              : 252
+Total Revenue                     : Rs. 9,840.00
+
+---
+
+                STOCK OVERVIEW
+
+---
+
+Available Medicines               : 8
+Low Stock Medicines               : 4
+Out of Stock Medicines            : 2
+Expired Medicines                 : 3
+Near Expiry Medicines             : 4
+
+---
+
+                SALES OVERVIEW
+
+---
+
+Today's Transactions              : 3
+Today's Medicines Sold            : 114
+Today's Revenue                   : Rs. 10,650.00
+
+---
+
+             TOP SELLING MEDICINE
+
+---
+
+Medicine Name                     : Paracetamol
+Total Quantity Sold               : 152
+Total Revenue                     : Rs. 3,800.00
+
+---
+
+                QUICK ALERTS
+
+---
+
+[WARNING] 2 medicines are out of stock.
+[WARNING] 4 medicines have low stock.
+[WARNING] 4 medicines are nearing expiry.
+[ALERT] 3 expired medicines require attention.
+
+---
+
+1. Refresh Dashboard
+2. View Detailed Stock Report
+3. View Detailed Sales Report
+4. View Expiry Report
+5. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 5
+
+============================================================
+PHARMACY MANAGEMENT SYSTEM
+
+         PHARMACY STOCK & SALES ANALYSIS
+============================================================
+
+                MAIN MENU
+
+1. Dashboard
+2. Medicine Management
+3. Supplier Management
+4. Purchase Management
+5. Stock Management
+6. Medicine Sales Management
+7. Sales Analysis & Reports
+8. Expiry Management
+9. Python Data Analysis
+10. Database Management
+11. Exit
+
+============================================================
+Enter your choice: [USER INPUT] > 2
+
+============================================================
+MEDICINE MANAGEMENT
+
+1. Add Medicine
+2. View All Medicines
+3. Search Medicine
+4. Update Medicine
+5. Delete Medicine
+6. View Medicine Details
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 2
+
+============================================================
+                  ALL REGISTERED MEDICINES
+============================================================
+-------------------- MEDICINE DETAILS --------------------
+Medicine ID  Medicine Name        Category        Price     
+----------------------------------------------------------
+MED101       Paracetamol          Tablet          25.00     
+MED102       Amoxicillin          Antibiotic      60.00     
+MED103       Cetirizine           Allergy         15.00     
+MED104       Dolo 650             Tablet          30.00     
+MED105       Azithromycin 500     Antibiotic      120.00    
+MED106       Benadryl Syrup       Syrup           85.00     
+MED107       Metformin 500        Diabetes        45.00     
+MED108       Pantoprazole 40      Antacid         55.00     
+MED109       Ibuprofen 400        Painkiller      35.00     
+MED110       Vitamin C 500        Vitamin         40.00     
+MED111       Atorvastatin 10      Cardiac         95.00     
+MED112       Montelukast 10       Allergy         75.00     
+MED113       Omeprazole 20        Antacid         42.00     
+MED114       Multivitamin Soft..  Vitamin         110.00    
+MED115       Ciprofloxacin 500    Antibiotic      68.00     
+----------------------------------------------------------
+
+Total Medicines Registered: 15
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+MEDICINE MANAGEMENT
+
+1. Add Medicine
+2. View All Medicines
+3. Search Medicine
+4. Update Medicine
+5. Delete Medicine
+6. View Medicine Details
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 7
+
+============================================================
+PHARMACY MANAGEMENT SYSTEM
+
+         PHARMACY STOCK & SALES ANALYSIS
+============================================================
+
+                MAIN MENU
+
+1. Dashboard
+2. Medicine Management
+3. Supplier Management
+4. Purchase Management
+5. Stock Management
+6. Medicine Sales Management
+7. Sales Analysis & Reports
+8. Expiry Management
+9. Python Data Analysis
+10. Database Management
+11. Exit
+
+============================================================
+Enter your choice: [USER INPUT] > 3
+
+============================================================
+SUPPLIER MANAGEMENT
+
+1. Add Supplier
+2. View All Suppliers
+3. Search Supplier
+4. Update Supplier
+5. Delete Supplier
+6. View Supplier Details
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 2
+
+============================================================
+                  ALL REGISTERED SUPPLIERS
+============================================================
+-------------------- SUPPLIER DETAILS --------------------
+Supplier ID  Supplier Name             Contact        
+----------------------------------------------------------
+S101         ABC Medicals              9876543210     
+S102         Sri Pharma                9876543211     
+S103         Health Distributors       9876543212     
+S104         MedLife Suppliers         9876543213     
+S105         Apex Pharmaceuticals      9876543214     
+----------------------------------------------------------
+
+Total Registered Suppliers: 5
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+SUPPLIER MANAGEMENT
+
+1. Add Supplier
+2. View All Suppliers
+3. Search Supplier
+4. Update Supplier
+5. Delete Supplier
+6. View Supplier Details
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 7
+
+============================================================
+PHARMACY MANAGEMENT SYSTEM
+
+         PHARMACY STOCK & SALES ANALYSIS
+============================================================
+
+                MAIN MENU
+
+1. Dashboard
+2. Medicine Management
+3. Supplier Management
+4. Purchase Management
+5. Stock Management
+6. Medicine Sales Management
+7. Sales Analysis & Reports
+8. Expiry Management
+9. Python Data Analysis
+10. Database Management
+11. Exit
+
+============================================================
+Enter your choice: [USER INPUT] > 4
+
+============================================================
+PURCHASE MANAGEMENT
+
+1. Record Medicine Purchase
+2. View All Purchases
+3. Search Purchase
+4. View Purchase History
+5. View Supplier-wise Purchases
+6. Generate Purchase Report
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 2
+
+============================================================
+                 ALL PURCHASE TRANSACTIONS
+============================================================
+-------------------- PURCHASE DETAILS --------------------
+Purchase ID  Supplier ID  Total (Rs.)    Items      Date        
+----------------------------------------------------------
+PUR105       S105         5100.00        1          2026-11-18  
+PUR104       S104         12000.00       1          2026-11-15  
+PUR103       S103         4500.00        1          2026-11-10  
+PUR102       S102         9000.00        1          2026-11-05  
+PUR101       S101         7500.00        1          2026-11-01  
+----------------------------------------------------------
+
+Total Purchase Transactions: 5
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+PURCHASE MANAGEMENT
+
+1. Record Medicine Purchase
+2. View All Purchases
+3. Search Purchase
+4. View Purchase History
+5. View Supplier-wise Purchases
+6. Generate Purchase Report
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 7
+
+============================================================
+PHARMACY MANAGEMENT SYSTEM
+
+         PHARMACY STOCK & SALES ANALYSIS
+============================================================
+
+                MAIN MENU
+
+1. Dashboard
+2. Medicine Management
+3. Supplier Management
+4. Purchase Management
+5. Stock Management
+6. Medicine Sales Management
+7. Sales Analysis & Reports
+8. Expiry Management
+9. Python Data Analysis
+10. Database Management
+11. Exit
+
+============================================================
+Enter your choice: [USER INPUT] > 5
+
+============================================================
+STOCK MANAGEMENT
+
+1. View Available Stock
+2. Update Stock
+3. View Low Stock Medicines
+4. View Out of Stock Medicines
+5. View Stock Summary
+6. Search Medicine Stock
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 1
+
+============================================================
+                  AVAILABLE MEDICINE STOCK
+============================================================
+-------------------- AVAILABLE STOCK --------------------
+Medicine ID  Medicine Name        Quantity   Status         
+---------------------------------------------------------
+MED101       Paracetamol          250        AVAILABLE      
+MED102       Amoxicillin          120        AVAILABLE      
+MED103       Cetirizine           8          LOW STOCK      
+MED104       Dolo 650             0          OUT OF STOCK   
+MED105       Azithromycin 500     45         AVAILABLE      
+MED106       Benadryl Syrup       60         AVAILABLE      
+MED107       Metformin 500        180        AVAILABLE      
+MED108       Pantoprazole 40      12         LOW STOCK      
+MED109       Ibuprofen 400        15         LOW STOCK      
+MED110       Vitamin C 500        220        AVAILABLE      
+MED111       Atorvastatin 10      35         AVAILABLE      
+MED112       Montelukast 10       5          LOW STOCK      
+MED113       Omeprazole 20        0          OUT OF STOCK   
+MED114       Multivitamin Soft..  90         AVAILABLE      
+MED115       Ciprofloxacin 500    75         AVAILABLE      
+---------------------------------------------------------
+
+Total Medicine Types: 15
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+STOCK MANAGEMENT
+
+1. View Available Stock
+2. Update Stock
+3. View Low Stock Medicines
+4. View Out of Stock Medicines
+5. View Stock Summary
+6. Search Medicine Stock
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 7
+
+============================================================
+PHARMACY MANAGEMENT SYSTEM
+
+         PHARMACY STOCK & SALES ANALYSIS
+============================================================
+
+                MAIN MENU
+
+1. Dashboard
+2. Medicine Management
+3. Supplier Management
+4. Purchase Management
+5. Stock Management
+6. Medicine Sales Management
+7. Sales Analysis & Reports
+8. Expiry Management
+9. Python Data Analysis
+10. Database Management
+11. Exit
+
+============================================================
+Enter your choice: [USER INPUT] > 6
+
+============================================================
+MEDICINE SALES MANAGEMENT
+
+1. Record Medicine Sale
+2. View All Sales
+3. Search Sale
+4. View Daily Sales
+5. View Sales History
+6. Generate Sales Receipt
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 2
+
+============================================================
+              ALL MEDICINE SALES TRANSACTIONS
+============================================================
+-------------------- MEDICINE SALES --------------------
+Sale ID    Sale Date      Customer             Amount (Rs.)
+--------------------------------------------------------
+SL108      2026-11-20     Vijay Narayanan      1150.00     
+SL107      2026-11-20     Meena Kumari         850.00      
+SL106      2026-11-20     Suresh Chandran      2500.00     
+SL105      2026-11-19     Deepa Lakshmi        1250.00     
+SL104      2026-11-18     Anand Babu           940.00      
+SL103      2026-11-17     Karthik Raja         1800.00     
+SL102      2026-11-16     Priya Sundaram       600.00      
+SL101      2026-11-15     Ramesh Kumar         750.00      
+--------------------------------------------------------
+
+Total Sales Transactions: 8
+Cumulative Revenue: Rs. 9,840.00
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+MEDICINE SALES MANAGEMENT
+
+1. Record Medicine Sale
+2. View All Sales
+3. Search Sale
+4. View Daily Sales
+5. View Sales History
+6. Generate Sales Receipt
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 7
+
+============================================================
+PHARMACY MANAGEMENT SYSTEM
+
+         PHARMACY STOCK & SALES ANALYSIS
+============================================================
+
+                MAIN MENU
+
+1. Dashboard
+2. Medicine Management
+3. Supplier Management
+4. Purchase Management
+5. Stock Management
+6. Medicine Sales Management
+7. Sales Analysis & Reports
+8. Expiry Management
+9. Python Data Analysis
+10. Database Management
+11. Exit
+
+============================================================
+Enter your choice: [USER INPUT] > 7
+
+============================================================
+SALES ANALYSIS & REPORTS
+
+1. Daily Sales Report
+2. Weekly Sales Report
+3. Monthly Sales Report
+4. Most Sold Medicines
+5. Least Sold Medicines
+6. Revenue Analysis
+7. Medicine-wise Sales Report
+8. Generate Complete Sales Report
+9. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 4
+
+============================================================
+                   TOP SELLING MEDICINES
+============================================================
+-------------------- TOP SELLING MEDICINES --------------------
+Rank   Medicine Name        Quantity Sold   Revenue        
+------------------------------------------------------------
+1      Paracetamol          152             3800.00        
+2      Dolo 650             48              1440.00        
+3      Azithromycin 500     15              1800.00        
+4      Benadryl Syrup       14              1190.00        
+5      Multivitamin Soft..  10              1100.00        
+------------------------------------------------------------
+
+BEST SELLING MEDICINE: PARACETAMOL
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+SALES ANALYSIS & REPORTS
+
+1. Daily Sales Report
+2. Weekly Sales Report
+3. Monthly Sales Report
+4. Most Sold Medicines
+5. Least Sold Medicines
+6. Revenue Analysis
+7. Medicine-wise Sales Report
+8. Generate Complete Sales Report
+9. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 9
+
+============================================================
+PHARMACY MANAGEMENT SYSTEM
+
+         PHARMACY STOCK & SALES ANALYSIS
+============================================================
+
+                MAIN MENU
+
+1. Dashboard
+2. Medicine Management
+3. Supplier Management
+4. Purchase Management
+5. Stock Management
+6. Medicine Sales Management
+7. Sales Analysis & Reports
+8. Expiry Management
+9. Python Data Analysis
+10. Database Management
+11. Exit
+
+============================================================
+Enter your choice: [USER INPUT] > 8
+
+============================================================
+EXPIRY MANAGEMENT
+
+1. View All Expiry Details
+2. View Near Expiry Medicines
+3. View Expired Medicines
+4. View Medicines Expiring This Month
+5. Generate Expiry Report
+6. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 3
+
+============================================================
+             EXPIRED MEDICINES QUARANTINE LIST
+============================================================
+-------------------- EXPIRY ALERT REPORT --------------------
+Medicine ID  Medicine Name        Expiry Date    Status         
+-------------------------------------------------------------
+MED113       Omeprazole 20        2026-08-20     EXPIRED        
+MED109       Ibuprofen 400        2026-09-01     EXPIRED        
+MED102       Amoxicillin          2026-10-15     EXPIRED        
+-------------------------------------------------------------
+Near Expiry Medicines: 0
+Expired Medicines: 3
+[ALERT] 3 medicine(s) are EXPIRED and must be removed from dispensing racks immediately!
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+EXPIRY MANAGEMENT
+
+1. View All Expiry Details
+2. View Near Expiry Medicines
+3. View Expired Medicines
+4. View Medicines Expiring This Month
+5. Generate Expiry Report
+6. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 6
+
+============================================================
+PHARMACY MANAGEMENT SYSTEM
+
+         PHARMACY STOCK & SALES ANALYSIS
+============================================================
+
+                MAIN MENU
+
+1. Dashboard
+2. Medicine Management
+3. Supplier Management
+4. Purchase Management
+5. Stock Management
+6. Medicine Sales Management
+7. Sales Analysis & Reports
+8. Expiry Management
+9. Python Data Analysis
+10. Database Management
+11. Exit
+
+============================================================
+Enter your choice: [USER INPUT] > 10
+
+============================================================
+DATABASE MANAGEMENT
+
+1. Test Database Connection
+2. View Database Summary
+3. View Medicine Records
+4. View Supplier Records
+5. View Purchase Records
+6. View Sales Records
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 1
+[INFO] Connecting to Database at: C:\Users\Anusuya\Desktop\Pharmacy Stock Management\DBMS\pharmacy.db
+[SUCCESS] Database connection established successfully. Status: ONLINE
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+DATABASE MANAGEMENT
+
+1. Test Database Connection
+2. View Database Summary
+3. View Medicine Records
+4. View Supplier Records
+5. View Purchase Records
+6. View Sales Records
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 7
+
+============================================================
+PHARMACY MANAGEMENT SYSTEM
+
+         PHARMACY STOCK & SALES ANALYSIS
+============================================================
+
+                MAIN MENU
+
+1. Dashboard
+2. Medicine Management
+3. Supplier Management
+4. Purchase Management
+5. Stock Management
+6. Medicine Sales Management
+7. Sales Analysis & Reports
+8. Expiry Management
+9. Python Data Analysis
+10. Database Management
+11. Exit
+
+============================================================
+Enter your choice: [USER INPUT] > 11
+
+[INFO] Exiting Pharmacy Stock Management and Medicine Sales Analysis System. Goodbye!

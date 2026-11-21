@@ -1,0 +1,162 @@
+C:\PharmacySystem> java StockManagementApp
+
+============================================================
+STOCK MANAGEMENT
+
+1. View Available Stock
+2. Update Stock
+3. View Low Stock Medicines
+4. View Out of Stock Medicines
+5. View Stock Summary
+6. Search Medicine Stock
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 1
+
+============================================================
+                  AVAILABLE MEDICINE STOCK
+============================================================
+-------------------- AVAILABLE STOCK --------------------
+Medicine ID  Medicine Name        Quantity   Status         
+---------------------------------------------------------
+MED101       Paracetamol          250        AVAILABLE      
+MED102       Amoxicillin          120        AVAILABLE      
+MED103       Cetirizine           8          LOW STOCK      
+MED104       Dolo 650             0          OUT OF STOCK   
+MED105       Azithromycin 500     45         AVAILABLE      
+MED106       Benadryl Syrup       60         AVAILABLE      
+MED107       Metformin 500        180        AVAILABLE      
+MED108       Pantoprazole 40      12         LOW STOCK      
+MED109       Ibuprofen 400        15         LOW STOCK      
+MED110       Vitamin C 500        220        AVAILABLE      
+MED111       Atorvastatin 10      35         AVAILABLE      
+MED112       Montelukast 10       5          LOW STOCK      
+MED113       Omeprazole 20        0          OUT OF STOCK   
+MED114       Multivitamin Soft..  90         AVAILABLE      
+MED115       Ciprofloxacin 500    75         AVAILABLE      
+---------------------------------------------------------
+
+Total Medicine Types: 15
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+STOCK MANAGEMENT
+
+1. View Available Stock
+2. Update Stock
+3. View Low Stock Medicines
+4. View Out of Stock Medicines
+5. View Stock Summary
+6. Search Medicine Stock
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 3
+
+============================================================
+                  LOW STOCK WARNING REPORT
+============================================================
+-------------------- AVAILABLE STOCK --------------------
+Medicine ID  Medicine Name        Quantity   Status         
+---------------------------------------------------------
+MED112       Montelukast 10       5          LOW STOCK      
+MED103       Cetirizine           8          LOW STOCK      
+MED108       Pantoprazole 40      12         LOW STOCK      
+MED109       Ibuprofen 400        15         LOW STOCK      
+---------------------------------------------------------
+[WARNING] 4 medicine(s) have reached or fallen below reorder threshold!
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+STOCK MANAGEMENT
+
+1. View Available Stock
+2. Update Stock
+3. View Low Stock Medicines
+4. View Out of Stock Medicines
+5. View Stock Summary
+6. Search Medicine Stock
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 4
+
+============================================================
+                OUT OF STOCK CRITICAL REPORT
+============================================================
+-------------------- AVAILABLE STOCK --------------------
+Medicine ID  Medicine Name        Quantity   Status         
+---------------------------------------------------------
+MED104       Dolo 650             0          OUT OF STOCK   
+MED113       Omeprazole 20        0          OUT OF STOCK   
+---------------------------------------------------------
+[ALERT] 2 medicine(s) are completely out of stock!
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+STOCK MANAGEMENT
+
+1. View Available Stock
+2. Update Stock
+3. View Low Stock Medicines
+4. View Out of Stock Medicines
+5. View Stock Summary
+6. Search Medicine Stock
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 5
+
+============================================================
+                  INVENTORY STOCK SUMMARY
+============================================================
+------------------------------------------------------------
+Total Registered Medicine Types : 15 types
+Total Available Inventory Units : 1115 units
+Medicines with Optimal Stock   : 9 types
+Medicines in Low Stock         : 4 types
+Medicines Out of Stock         : 2 types
+------------------------------------------------------------
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+STOCK MANAGEMENT
+
+1. View Available Stock
+2. Update Stock
+3. View Low Stock Medicines
+4. View Out of Stock Medicines
+5. View Stock Summary
+6. Search Medicine Stock
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 6
+
+============================================================
+                   SEARCH MEDICINE STOCK
+============================================================
+Enter Medicine ID: [USER INPUT] > MED101
+------------------------------------------------------------
+Medicine ID          : MED101
+Medicine Name        : Paracetamol
+Category             : Tablet
+Current Stock        : 250 units
+Reorder Level        : 20 units
+Inventory Status     : AVAILABLE
+------------------------------------------------------------
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+STOCK MANAGEMENT
+
+1. View Available Stock
+2. Update Stock
+3. View Low Stock Medicines
+4. View Out of Stock Medicines
+5. View Stock Summary
+6. Search Medicine Stock
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 7

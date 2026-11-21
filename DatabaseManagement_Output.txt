@@ -1,0 +1,109 @@
+C:\PharmacySystem> java DatabaseManagementApp
+
+============================================================
+DATABASE MANAGEMENT
+
+1. Test Database Connection
+2. View Database Summary
+3. View Medicine Records
+4. View Supplier Records
+5. View Purchase Records
+6. View Sales Records
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 1
+[INFO] Connecting to Database at: C:\Users\Anusuya\Desktop\Pharmacy Stock Management\DBMS\pharmacy.db
+[SUCCESS] Database connection established successfully. Status: ONLINE
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+DATABASE MANAGEMENT
+
+1. Test Database Connection
+2. View Database Summary
+3. View Medicine Records
+4. View Supplier Records
+5. View Purchase Records
+6. View Sales Records
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 2
+
+============================================================
+             DATABASE SCHEMA & STORAGE METRICS
+============================================================
+Database Engine    : SQLite 3.45.1
+Driver Name        : SQLite JDBC 3.45.1.0
+Storage Location   : C:\Users\Anusuya\Desktop\Pharmacy Stock Management\DBMS\pharmacy.db
+------------------------------------------------------------
+Table Record Counts:
+  medicines          : 15 records
+  suppliers          : 5 records
+  stock              : 15 records
+  purchases          : 5 records
+  purchase_items     : 10 records
+  sales              : 8 records
+  sale_items         : 14 records
+------------------------------------------------------------
+
+Press Enter to continue...[USER INPUT] > 3
+
+============================================================
+DATABASE MANAGEMENT
+
+1. Test Database Connection
+2. View Database Summary
+3. View Medicine Records
+4. View Supplier Records
+5. View Purchase Records
+6. View Sales Records
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 3
+
+============================================================
+                  ALL REGISTERED MEDICINES
+============================================================
+-------------------- MEDICINE DETAILS --------------------
+Medicine ID  Medicine Name        Category        Price     
+----------------------------------------------------------
+MED101       Paracetamol          Tablet          25.00     
+MED102       Amoxicillin          Antibiotic      60.00     
+MED103       Cetirizine           Allergy         15.00     
+MED104       Dolo 650             Tablet          30.00     
+MED105       Azithromycin 500     Antibiotic      120.00    
+MED106       Benadryl Syrup       Syrup           85.00     
+MED107       Metformin 500        Diabetes        45.00     
+MED108       Pantoprazole 40      Antacid         55.00     
+MED109       Ibuprofen 400        Painkiller      35.00     
+MED110       Vitamin C 500        Vitamin         40.00     
+MED111       Atorvastatin 10      Cardiac         95.00     
+MED112       Montelukast 10       Allergy         75.00     
+MED113       Omeprazole 20        Antacid         42.00     
+MED114       Multivitamin Soft..  Vitamin         110.00    
+MED115       Ciprofloxacin 500    Antibiotic      68.00     
+----------------------------------------------------------
+
+Total Medicines Registered: 15
+
+Press Enter to continue...[USER INPUT] > 4
+
+============================================================
+DATABASE MANAGEMENT
+
+1. Test Database Connection
+2. View Database Summary
+3. View Medicine Records
+4. View Supplier Records
+5. View Purchase Records
+6. View Sales Records
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 
+[WARNING] Invalid input. Please enter a valid numeric value.
+Enter your choice: [USER INPUT] > 
+[WARNING] Invalid input. Please enter a valid numeric value.
+Enter your choice: [USER INPUT] > 
+[WARNING] Invalid input. Please enter a valid numeric value.
+Enter your choice: 

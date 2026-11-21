@@ -1,0 +1,111 @@
+C:\PharmacySystem> java MedicineManagementApp
+
+============================================================
+MEDICINE MANAGEMENT
+
+1. Add Medicine
+2. View All Medicines
+3. Search Medicine
+4. Update Medicine
+5. Delete Medicine
+6. View Medicine Details
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 2
+
+============================================================
+                  ALL REGISTERED MEDICINES
+============================================================
+-------------------- MEDICINE DETAILS --------------------
+Medicine ID  Medicine Name        Category        Price     
+----------------------------------------------------------
+MED101       Paracetamol          Tablet          25.00     
+MED102       Amoxicillin          Antibiotic      60.00     
+MED103       Cetirizine           Allergy         15.00     
+MED104       Dolo 650             Tablet          30.00     
+MED105       Azithromycin 500     Antibiotic      120.00    
+MED106       Benadryl Syrup       Syrup           85.00     
+MED107       Metformin 500        Diabetes        45.00     
+MED108       Pantoprazole 40      Antacid         55.00     
+MED109       Ibuprofen 400        Painkiller      35.00     
+MED110       Vitamin C 500        Vitamin         40.00     
+MED111       Atorvastatin 10      Cardiac         95.00     
+MED112       Montelukast 10       Allergy         75.00     
+MED113       Omeprazole 20        Antacid         42.00     
+MED114       Multivitamin Soft..  Vitamin         110.00    
+MED115       Ciprofloxacin 500    Antibiotic      68.00     
+----------------------------------------------------------
+
+Total Medicines Registered: 15
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+MEDICINE MANAGEMENT
+
+1. Add Medicine
+2. View All Medicines
+3. Search Medicine
+4. Update Medicine
+5. Delete Medicine
+6. View Medicine Details
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 3
+
+============================================================
+                      SEARCH MEDICINE
+============================================================
+Enter Medicine ID, Name, or Category to search: [USER INPUT] > Paracetamol
+-------------------- MEDICINE DETAILS --------------------
+Medicine ID  Medicine Name        Category        Price     
+----------------------------------------------------------
+MED101       Paracetamol          Tablet          25.00     
+----------------------------------------------------------
+
+Matching Medicines Found: 1
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+MEDICINE MANAGEMENT
+
+1. Add Medicine
+2. View All Medicines
+3. Search Medicine
+4. Update Medicine
+5. Delete Medicine
+6. View Medicine Details
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 6
+
+============================================================
+                   VIEW MEDICINE DETAILS
+============================================================
+Enter Medicine ID: [USER INPUT] > MED101
+------------------------------------------------------------
+Medicine ID          : MED101
+Medicine Name        : Paracetamol
+Category             : Tablet
+Manufacturer         : Sun Pharma
+Unit Price           : Rs. 25.00
+Expiry Date          : 2026-12-05
+Reorder Level        : 20 units
+Expiry Status        : [NEAR EXPIRY]
+------------------------------------------------------------
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+MEDICINE MANAGEMENT
+
+1. Add Medicine
+2. View All Medicines
+3. Search Medicine
+4. Update Medicine
+5. Delete Medicine
+6. View Medicine Details
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 7

@@ -1,0 +1,466 @@
+C:\PharmacySystem> java PharmacyManagementSystem
+
+============================================================
+PHARMACY MANAGEMENT SYSTEM
+
+         PHARMACY STOCK & SALES ANALYSIS
+============================================================
+
+                MAIN MENU
+
+1. Dashboard
+2. Medicine Management
+3. Supplier Management
+4. Purchase Management
+5. Stock Management
+6. Medicine Sales Management
+7. Sales Analysis & Reports
+8. Expiry Management
+9. Python Data Analysis
+10. Database Management
+11. Exit
+
+============================================================
+Enter your choice: [USER INPUT] > 1
+
+============================================================
+PHARMACY DASHBOARD
+
+                OVERALL SUMMARY
+
+Total Medicines Registered        : 15
+Total Suppliers                   : 5
+Total Purchase Transactions       : 5
+Total Sales Transactions          : 8
+Total Available Stock             : 1115
+Total Medicines Sold              : 252
+Total Revenue                     : Rs. 9,840.00
+
+---
+
+                STOCK OVERVIEW
+
+---
+
+Available Medicines               : 8
+Low Stock Medicines               : 4
+Out of Stock Medicines            : 2
+Expired Medicines                 : 3
+Near Expiry Medicines             : 4
+
+---
+
+                SALES OVERVIEW
+
+---
+
+Today's Transactions              : 3
+Today's Medicines Sold            : 114
+Today's Revenue                   : Rs. 10,650.00
+
+---
+
+             TOP SELLING MEDICINE
+
+---
+
+Medicine Name                     : Paracetamol
+Total Quantity Sold               : 152
+Total Revenue                     : Rs. 3,800.00
+
+---
+
+                QUICK ALERTS
+
+---
+
+[WARNING] 2 medicines are out of stock.
+[WARNING] 4 medicines have low stock.
+[WARNING] 4 medicines are nearing expiry.
+[ALERT] 3 expired medicines require attention.
+
+---
+
+1. Refresh Dashboard
+2. View Detailed Stock Report
+3. View Detailed Sales Report
+4. View Expiry Report
+5. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 1
+[SUCCESS] Refreshing Dashboard data from database...
+
+============================================================
+PHARMACY DASHBOARD
+
+                OVERALL SUMMARY
+
+Total Medicines Registered        : 15
+Total Suppliers                   : 5
+Total Purchase Transactions       : 5
+Total Sales Transactions          : 8
+Total Available Stock             : 1115
+Total Medicines Sold              : 252
+Total Revenue                     : Rs. 9,840.00
+
+---
+
+                STOCK OVERVIEW
+
+---
+
+Available Medicines               : 8
+Low Stock Medicines               : 4
+Out of Stock Medicines            : 2
+Expired Medicines                 : 3
+Near Expiry Medicines             : 4
+
+---
+
+                SALES OVERVIEW
+
+---
+
+Today's Transactions              : 3
+Today's Medicines Sold            : 114
+Today's Revenue                   : Rs. 10,650.00
+
+---
+
+             TOP SELLING MEDICINE
+
+---
+
+Medicine Name                     : Paracetamol
+Total Quantity Sold               : 152
+Total Revenue                     : Rs. 3,800.00
+
+---
+
+                QUICK ALERTS
+
+---
+
+[WARNING] 2 medicines are out of stock.
+[WARNING] 4 medicines have low stock.
+[WARNING] 4 medicines are nearing expiry.
+[ALERT] 3 expired medicines require attention.
+
+---
+
+1. Refresh Dashboard
+2. View Detailed Stock Report
+3. View Detailed Sales Report
+4. View Expiry Report
+5. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 2
+
+============================================================
+                  INVENTORY STOCK SUMMARY
+============================================================
+------------------------------------------------------------
+Total Registered Medicine Types : 15 types
+Total Available Inventory Units : 1115 units
+Medicines with Optimal Stock   : 9 types
+Medicines in Low Stock         : 4 types
+Medicines Out of Stock         : 2 types
+------------------------------------------------------------
+
+============================================================
+                  AVAILABLE MEDICINE STOCK
+============================================================
+-------------------- AVAILABLE STOCK --------------------
+Medicine ID  Medicine Name        Quantity   Status         
+---------------------------------------------------------
+MED101       Paracetamol          250        AVAILABLE      
+MED102       Amoxicillin          120        AVAILABLE      
+MED103       Cetirizine           8          LOW STOCK      
+MED104       Dolo 650             0          OUT OF STOCK   
+MED105       Azithromycin 500     45         AVAILABLE      
+MED106       Benadryl Syrup       60         AVAILABLE      
+MED107       Metformin 500        180        AVAILABLE      
+MED108       Pantoprazole 40      12         LOW STOCK      
+MED109       Ibuprofen 400        15         LOW STOCK      
+MED110       Vitamin C 500        220        AVAILABLE      
+MED111       Atorvastatin 10      35         AVAILABLE      
+MED112       Montelukast 10       5          LOW STOCK      
+MED113       Omeprazole 20        0          OUT OF STOCK   
+MED114       Multivitamin Soft..  90         AVAILABLE      
+MED115       Ciprofloxacin 500    75         AVAILABLE      
+---------------------------------------------------------
+
+Total Medicine Types: 15
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+PHARMACY DASHBOARD
+
+                OVERALL SUMMARY
+
+Total Medicines Registered        : 15
+Total Suppliers                   : 5
+Total Purchase Transactions       : 5
+Total Sales Transactions          : 8
+Total Available Stock             : 1115
+Total Medicines Sold              : 252
+Total Revenue                     : Rs. 9,840.00
+
+---
+
+                STOCK OVERVIEW
+
+---
+
+Available Medicines               : 8
+Low Stock Medicines               : 4
+Out of Stock Medicines            : 2
+Expired Medicines                 : 3
+Near Expiry Medicines             : 4
+
+---
+
+                SALES OVERVIEW
+
+---
+
+Today's Transactions              : 3
+Today's Medicines Sold            : 114
+Today's Revenue                   : Rs. 10,650.00
+
+---
+
+             TOP SELLING MEDICINE
+
+---
+
+Medicine Name                     : Paracetamol
+Total Quantity Sold               : 152
+Total Revenue                     : Rs. 3,800.00
+
+---
+
+                QUICK ALERTS
+
+---
+
+[WARNING] 2 medicines are out of stock.
+[WARNING] 4 medicines have low stock.
+[WARNING] 4 medicines are nearing expiry.
+[ALERT] 3 expired medicines require attention.
+
+---
+
+1. Refresh Dashboard
+2. View Detailed Stock Report
+3. View Detailed Sales Report
+4. View Expiry Report
+5. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 3
+
+============================================================
+                     DAILY SALES REPORT
+============================================================
+Enter Report Date (YYYY-MM-DD, press Enter for Today): [USER INPUT] > 
+-------------------- DAILY SALES REPORT --------------------
+Date                        : 2026-11-20
+Total Transactions          : 3
+Total Medicines Sold        : 114
+Total Revenue               : Rs. 4,500.00
+Average Transaction Value   : Rs. 1,500.00
+------------------------------------------------------------
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+PHARMACY DASHBOARD
+
+                OVERALL SUMMARY
+
+Total Medicines Registered        : 15
+Total Suppliers                   : 5
+Total Purchase Transactions       : 5
+Total Sales Transactions          : 8
+Total Available Stock             : 1115
+Total Medicines Sold              : 252
+Total Revenue                     : Rs. 9,840.00
+
+---
+
+                STOCK OVERVIEW
+
+---
+
+Available Medicines               : 8
+Low Stock Medicines               : 4
+Out of Stock Medicines            : 2
+Expired Medicines                 : 3
+Near Expiry Medicines             : 4
+
+---
+
+                SALES OVERVIEW
+
+---
+
+Today's Transactions              : 3
+Today's Medicines Sold            : 114
+Today's Revenue                   : Rs. 10,650.00
+
+---
+
+             TOP SELLING MEDICINE
+
+---
+
+Medicine Name                     : Paracetamol
+Total Quantity Sold               : 152
+Total Revenue                     : Rs. 3,800.00
+
+---
+
+                QUICK ALERTS
+
+---
+
+[WARNING] 2 medicines are out of stock.
+[WARNING] 4 medicines have low stock.
+[WARNING] 4 medicines are nearing expiry.
+[ALERT] 3 expired medicines require attention.
+
+---
+
+1. Refresh Dashboard
+2. View Detailed Stock Report
+3. View Detailed Sales Report
+4. View Expiry Report
+5. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 4
+
+============================================================
+             COMPREHENSIVE EXPIRY AUDIT REPORT
+============================================================
+-------------------- EXPIRY ALERT REPORT --------------------
+Medicine ID  Medicine Name        Expiry Date    Status         
+-------------------------------------------------------------
+MED101       Paracetamol          2026-12-05     NEAR EXPIRY    
+MED102       Amoxicillin          2026-10-15     EXPIRED        
+MED103       Cetirizine           2027-05-20     VALID          
+MED104       Dolo 650             2027-08-10     VALID          
+MED105       Azithromycin 500     2026-12-10     NEAR EXPIRY    
+MED106       Benadryl Syrup       2027-03-15     VALID          
+MED107       Metformin 500        2027-11-20     VALID          
+MED108       Pantoprazole 40      2026-11-28     NEAR EXPIRY    
+MED109       Ibuprofen 400        2026-09-01     EXPIRED        
+MED110       Vitamin C 500        2027-09-30     VALID          
+MED111       Atorvastatin 10      2027-04-12     VALID          
+MED112       Montelukast 10       2026-12-18     NEAR EXPIRY    
+MED113       Omeprazole 20        2026-08-20     EXPIRED        
+MED114       Multivitamin Soft..  2028-01-15     VALID          
+MED115       Ciprofloxacin 500    2027-10-05     VALID          
+-------------------------------------------------------------
+Near Expiry Medicines: 4
+Expired Medicines: 3
+
+------------------------------------------------------------
+Total Medicines Inspected      : 15
+Expired Medicines              : 3
+Near Expiry Medicines (<= 30d) : 4
+Valid / Healthy Medicines      : 8
+------------------------------------------------------------
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+PHARMACY DASHBOARD
+
+                OVERALL SUMMARY
+
+Total Medicines Registered        : 15
+Total Suppliers                   : 5
+Total Purchase Transactions       : 5
+Total Sales Transactions          : 8
+Total Available Stock             : 1115
+Total Medicines Sold              : 252
+Total Revenue                     : Rs. 9,840.00
+
+---
+
+                STOCK OVERVIEW
+
+---
+
+Available Medicines               : 8
+Low Stock Medicines               : 4
+Out of Stock Medicines            : 2
+Expired Medicines                 : 3
+Near Expiry Medicines             : 4
+
+---
+
+                SALES OVERVIEW
+
+---
+
+Today's Transactions              : 3
+Today's Medicines Sold            : 114
+Today's Revenue                   : Rs. 10,650.00
+
+---
+
+             TOP SELLING MEDICINE
+
+---
+
+Medicine Name                     : Paracetamol
+Total Quantity Sold               : 152
+Total Revenue                     : Rs. 3,800.00
+
+---
+
+                QUICK ALERTS
+
+---
+
+[WARNING] 2 medicines are out of stock.
+[WARNING] 4 medicines have low stock.
+[WARNING] 4 medicines are nearing expiry.
+[ALERT] 3 expired medicines require attention.
+
+---
+
+1. Refresh Dashboard
+2. View Detailed Stock Report
+3. View Detailed Sales Report
+4. View Expiry Report
+5. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 5
+
+============================================================
+PHARMACY MANAGEMENT SYSTEM
+
+         PHARMACY STOCK & SALES ANALYSIS
+============================================================
+
+                MAIN MENU
+
+1. Dashboard
+2. Medicine Management
+3. Supplier Management
+4. Purchase Management
+5. Stock Management
+6. Medicine Sales Management
+7. Sales Analysis & Reports
+8. Expiry Management
+9. Python Data Analysis
+10. Database Management
+11. Exit
+
+============================================================
+Enter your choice: [USER INPUT] > 11
+
+[INFO] Exiting Pharmacy Stock Management and Medicine Sales Analysis System. Goodbye!

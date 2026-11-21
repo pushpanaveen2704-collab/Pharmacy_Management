@@ -1,0 +1,181 @@
+C:\PharmacySystem> java ExpiryManagementApp
+
+============================================================
+EXPIRY MANAGEMENT
+
+1. View All Expiry Details
+2. View Near Expiry Medicines
+3. View Expired Medicines
+4. View Medicines Expiring This Month
+5. Generate Expiry Report
+6. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 1
+
+============================================================
+                MEDICINE EXPIRY SURVEILLANCE
+============================================================
+-------------------- EXPIRY ALERT REPORT --------------------
+Medicine ID  Medicine Name        Expiry Date    Status         
+-------------------------------------------------------------
+MED101       Paracetamol          2026-12-05     NEAR EXPIRY    
+MED102       Amoxicillin          2026-10-15     EXPIRED        
+MED103       Cetirizine           2027-05-20     VALID          
+MED104       Dolo 650             2027-08-10     VALID          
+MED105       Azithromycin 500     2026-12-10     NEAR EXPIRY    
+MED106       Benadryl Syrup       2027-03-15     VALID          
+MED107       Metformin 500        2027-11-20     VALID          
+MED108       Pantoprazole 40      2026-11-28     NEAR EXPIRY    
+MED109       Ibuprofen 400        2026-09-01     EXPIRED        
+MED110       Vitamin C 500        2027-09-30     VALID          
+MED111       Atorvastatin 10      2027-04-12     VALID          
+MED112       Montelukast 10       2026-12-18     NEAR EXPIRY    
+MED113       Omeprazole 20        2026-08-20     EXPIRED        
+MED114       Multivitamin Soft..  2028-01-15     VALID          
+MED115       Ciprofloxacin 500    2027-10-05     VALID          
+-------------------------------------------------------------
+Near Expiry Medicines: 4
+Expired Medicines: 3
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+EXPIRY MANAGEMENT
+
+1. View All Expiry Details
+2. View Near Expiry Medicines
+3. View Expired Medicines
+4. View Medicines Expiring This Month
+5. Generate Expiry Report
+6. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 2
+
+============================================================
+                NEAR EXPIRY MEDICINES ALERT
+============================================================
+Enter threshold in days (press Enter for default 30 days): -------------------- EXPIRY ALERT REPORT --------------------
+Medicine ID  Medicine Name        Expiry Date    Status         
+-------------------------------------------------------------
+MED108       Pantoprazole 40      2026-11-28     NEAR EXPIRY    
+MED101       Paracetamol          2026-12-05     NEAR EXPIRY    
+MED105       Azithromycin 500     2026-12-10     NEAR EXPIRY    
+MED112       Montelukast 10       2026-12-18     NEAR EXPIRY    
+-------------------------------------------------------------
+Near Expiry Medicines: 4
+Expired Medicines: 0
+[WARNING] 4 medicine(s) are nearing expiry within 30 days!
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+EXPIRY MANAGEMENT
+
+1. View All Expiry Details
+2. View Near Expiry Medicines
+3. View Expired Medicines
+4. View Medicines Expiring This Month
+5. Generate Expiry Report
+6. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 3
+
+============================================================
+             EXPIRED MEDICINES QUARANTINE LIST
+============================================================
+-------------------- EXPIRY ALERT REPORT --------------------
+Medicine ID  Medicine Name        Expiry Date    Status         
+-------------------------------------------------------------
+MED113       Omeprazole 20        2026-08-20     EXPIRED        
+MED109       Ibuprofen 400        2026-09-01     EXPIRED        
+MED102       Amoxicillin          2026-10-15     EXPIRED        
+-------------------------------------------------------------
+Near Expiry Medicines: 0
+Expired Medicines: 3
+[ALERT] 3 medicine(s) are EXPIRED and must be removed from dispensing racks immediately!
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+EXPIRY MANAGEMENT
+
+1. View All Expiry Details
+2. View Near Expiry Medicines
+3. View Expired Medicines
+4. View Medicines Expiring This Month
+5. Generate Expiry Report
+6. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 4
+
+============================================================
+               MEDICINES EXPIRING THIS MONTH
+============================================================
+-------------------- EXPIRY ALERT REPORT --------------------
+Medicine ID  Medicine Name        Expiry Date    Status         
+-------------------------------------------------------------
+MED108       Pantoprazole 40      2026-11-28     NEAR EXPIRY    
+-------------------------------------------------------------
+Near Expiry Medicines: 1
+Expired Medicines: 0
+[WARNING] 1 medicine(s) will expire this month!
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+EXPIRY MANAGEMENT
+
+1. View All Expiry Details
+2. View Near Expiry Medicines
+3. View Expired Medicines
+4. View Medicines Expiring This Month
+5. Generate Expiry Report
+6. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 5
+
+============================================================
+             COMPREHENSIVE EXPIRY AUDIT REPORT
+============================================================
+-------------------- EXPIRY ALERT REPORT --------------------
+Medicine ID  Medicine Name        Expiry Date    Status         
+-------------------------------------------------------------
+MED101       Paracetamol          2026-12-05     NEAR EXPIRY    
+MED102       Amoxicillin          2026-10-15     EXPIRED        
+MED103       Cetirizine           2027-05-20     VALID          
+MED104       Dolo 650             2027-08-10     VALID          
+MED105       Azithromycin 500     2026-12-10     NEAR EXPIRY    
+MED106       Benadryl Syrup       2027-03-15     VALID          
+MED107       Metformin 500        2027-11-20     VALID          
+MED108       Pantoprazole 40      2026-11-28     NEAR EXPIRY    
+MED109       Ibuprofen 400        2026-09-01     EXPIRED        
+MED110       Vitamin C 500        2027-09-30     VALID          
+MED111       Atorvastatin 10      2027-04-12     VALID          
+MED112       Montelukast 10       2026-12-18     NEAR EXPIRY    
+MED113       Omeprazole 20        2026-08-20     EXPIRED        
+MED114       Multivitamin Soft..  2028-01-15     VALID          
+MED115       Ciprofloxacin 500    2027-10-05     VALID          
+-------------------------------------------------------------
+Near Expiry Medicines: 4
+Expired Medicines: 3
+
+------------------------------------------------------------
+Total Medicines Inspected      : 15
+Expired Medicines              : 3
+Near Expiry Medicines (<= 30d) : 4
+Valid / Healthy Medicines      : 8
+------------------------------------------------------------
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+EXPIRY MANAGEMENT
+
+1. View All Expiry Details
+2. View Near Expiry Medicines
+3. View Expired Medicines
+4. View Medicines Expiring This Month
+5. Generate Expiry Report
+6. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 6

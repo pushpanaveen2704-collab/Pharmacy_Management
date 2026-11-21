@@ -1,0 +1,98 @@
+C:\PharmacySystem> java SupplierManagementApp
+
+============================================================
+SUPPLIER MANAGEMENT
+
+1. Add Supplier
+2. View All Suppliers
+3. Search Supplier
+4. Update Supplier
+5. Delete Supplier
+6. View Supplier Details
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 2
+
+============================================================
+                  ALL REGISTERED SUPPLIERS
+============================================================
+-------------------- SUPPLIER DETAILS --------------------
+Supplier ID  Supplier Name             Contact        
+----------------------------------------------------------
+S101         ABC Medicals              9876543210     
+S102         Sri Pharma                9876543211     
+S103         Health Distributors       9876543212     
+S104         MedLife Suppliers         9876543213     
+S105         Apex Pharmaceuticals      9876543214     
+----------------------------------------------------------
+
+Total Registered Suppliers: 5
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+SUPPLIER MANAGEMENT
+
+1. Add Supplier
+2. View All Suppliers
+3. Search Supplier
+4. Update Supplier
+5. Delete Supplier
+6. View Supplier Details
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 3
+
+============================================================
+                      SEARCH SUPPLIER
+============================================================
+Enter Supplier ID, Name, or Phone: [USER INPUT] > ABC
+-------------------- SUPPLIER DETAILS --------------------
+Supplier ID  Supplier Name             Contact        
+----------------------------------------------------------
+S101         ABC Medicals              9876543210     
+----------------------------------------------------------
+
+Matching Suppliers: 1
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+SUPPLIER MANAGEMENT
+
+1. Add Supplier
+2. View All Suppliers
+3. Search Supplier
+4. Update Supplier
+5. Delete Supplier
+6. View Supplier Details
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 6
+
+============================================================
+                      SUPPLIER PROFILE
+============================================================
+Enter Supplier ID: [USER INPUT] > S101
+------------------------------------------------------------
+Supplier ID        : S101
+Supplier Name      : ABC Medicals
+Contact Phone      : 9876543210
+Email Address      : orders@abcmedicals.com
+Office Address     : 124 Anna Salai, Chennai
+------------------------------------------------------------
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+SUPPLIER MANAGEMENT
+
+1. Add Supplier
+2. View All Suppliers
+3. Search Supplier
+4. Update Supplier
+5. Delete Supplier
+6. View Supplier Details
+7. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 7

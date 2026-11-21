@@ -1,0 +1,141 @@
+C:\PharmacySystem> java PythonAnalysisApp
+
+============================================================
+PYTHON DATA ANALYSIS
+
+1. Medicine Sales Visualization
+2. Daily Revenue Visualization
+3. Stock Analysis Visualization
+4. Top Selling Medicine Analysis
+5. Low Stock Analysis
+6. Expiry Analysis
+7. Complete Data Analysis
+8. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 1
+[INFO] Launching Python Analytics Engine...
+[INFO] Interpreter: C:\Users\Anusuya\AppData\Local\Programs\Python\Python37\python.exe
+[INFO] Target Script: C:\Users\Anusuya\Desktop\Pharmacy Stock Management\FDS\data_analysis.py
+
+=================================================================
+ MEDICINE-WISE SALES (UNITS SOLD) 
+=================================================================
+ Paracetamol           | ████████████████████████████████████████ 152
+ Dolo 650              | ████████████                             48
+ Azithromycin 500      | ███                                      15
+ Benadryl Syrup        | ███                                      14
+ Vitamin C 500         | ██                                       10
+ Multivitamin Softgels | ██                                       10
+ Metformin 500         |                                          2
+ Cetirizine            |                                          1
+-----------------------------------------------------------------
+  [SUCCESS] Visualizations saved to: C:\Users\Anusuya\Desktop\Pharmacy Stock Management\FDS\visualizations
+[SUCCESS] Python Data Analysis routine completed successfully.
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+PYTHON DATA ANALYSIS
+
+1. Medicine Sales Visualization
+2. Daily Revenue Visualization
+3. Stock Analysis Visualization
+4. Top Selling Medicine Analysis
+5. Low Stock Analysis
+6. Expiry Analysis
+7. Complete Data Analysis
+8. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 4
+[INFO] Launching Python Analytics Engine...
+[INFO] Interpreter: C:\Users\Anusuya\AppData\Local\Programs\Python\Python37\python.exe
+[INFO] Target Script: C:\Users\Anusuya\Desktop\Pharmacy Stock Management\FDS\data_analysis.py
+
+=================================================================
+ TOP 5 BEST SELLING MEDICINES 
+=================================================================
+ Paracetamol      | ████████████████████████████████████████ 152
+ Dolo 650         | ████████████                             48
+ Azithromycin 500 | ███                                      15
+ Benadryl Syrup   | ███                                      14
+ Vitamin C 500    | ██                                       10
+-----------------------------------------------------------------
+  [SUCCESS] Visualizations saved to: C:\Users\Anusuya\Desktop\Pharmacy Stock Management\FDS\visualizations
+[SUCCESS] Python Data Analysis routine completed successfully.
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+PYTHON DATA ANALYSIS
+
+1. Medicine Sales Visualization
+2. Daily Revenue Visualization
+3. Stock Analysis Visualization
+4. Top Selling Medicine Analysis
+5. Low Stock Analysis
+6. Expiry Analysis
+7. Complete Data Analysis
+8. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 5
+[INFO] Launching Python Analytics Engine...
+[INFO] Interpreter: C:\Users\Anusuya\AppData\Local\Programs\Python\Python37\python.exe
+[INFO] Target Script: C:\Users\Anusuya\Desktop\Pharmacy Stock Management\FDS\data_analysis.py
+
+=================================================================
+ CRITICAL LOW STOCK / OUT OF STOCK MEDICINES 
+=================================================================
+ Dolo 650        |                                          0
+ Omeprazole 20   |                                          0
+ Montelukast 10  | █████████████                            5
+ Cetirizine      | █████████████████████                    8
+ Pantoprazole 40 | ████████████████████████████████         12
+ Ibuprofen 400   | ████████████████████████████████████████ 15
+-----------------------------------------------------------------
+  [SUCCESS] Visualizations saved to: C:\Users\Anusuya\Desktop\Pharmacy Stock Management\FDS\visualizations
+[SUCCESS] Python Data Analysis routine completed successfully.
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+PYTHON DATA ANALYSIS
+
+1. Medicine Sales Visualization
+2. Daily Revenue Visualization
+3. Stock Analysis Visualization
+4. Top Selling Medicine Analysis
+5. Low Stock Analysis
+6. Expiry Analysis
+7. Complete Data Analysis
+8. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 6
+[INFO] Launching Python Analytics Engine...
+[INFO] Interpreter: C:\Users\Anusuya\AppData\Local\Programs\Python\Python37\python.exe
+[INFO] Target Script: C:\Users\Anusuya\Desktop\Pharmacy Stock Management\FDS\data_analysis.py
+
+=================================================================
+ MEDICINE EXPIRY DISTRIBUTION 
+=================================================================
+ EXPIRED             | ███████████████                          3
+ NEAR EXPIRY (<=30d) | ████████████████████                     4
+ VALID (>30d)        | ████████████████████████████████████████ 8
+-----------------------------------------------------------------
+  [SUCCESS] Visualizations saved to: C:\Users\Anusuya\Desktop\Pharmacy Stock Management\FDS\visualizations
+[SUCCESS] Python Data Analysis routine completed successfully.
+
+Press Enter to continue...[USER INPUT] > 
+
+============================================================
+PYTHON DATA ANALYSIS
+
+1. Medicine Sales Visualization
+2. Daily Revenue Visualization
+3. Stock Analysis Visualization
+4. Top Selling Medicine Analysis
+5. Low Stock Analysis
+6. Expiry Analysis
+7. Complete Data Analysis
+8. Return to Main Menu
+
+Enter your choice: [USER INPUT] > 8

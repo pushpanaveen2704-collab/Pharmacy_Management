@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="420" style="background:#1e1e1e; font-family:Arial,sans-serif;">
+<rect width="750" height="420" fill="#1e1e1e"/>
+<text x="375.0" y="32" fill="#00d2ff" font-size="18" font-weight="bold" text-anchor="middle">Daily Revenue Trend (Rs.)</text>
+<text x="150" y="69.0" fill="#ffffff" font-size="12" text-anchor="end">2026-11-15</text>
+<rect x="160" y="50" width="90.0" height="28" rx="4" fill="#4CAF50" />
+<text x="258.0" y="69.0" fill="#00ffcc" font-size="12" font-weight="bold">750</text>
+<text x="150" y="105.0" fill="#ffffff" font-size="12" text-anchor="end">2026-11-16</text>
+<rect x="160" y="86" width="72.0" height="28" rx="4" fill="#2196F3" />
+<text x="240.0" y="105.0" fill="#00ffcc" font-size="12" font-weight="bold">600</text>
+<text x="150" y="141.0" fill="#ffffff" font-size="12" text-anchor="end">2026-11-17</text>
+<rect x="160" y="122" width="216.0" height="28" rx="4" fill="#FF9800" />
+<text x="384.0" y="141.0" fill="#00ffcc" font-size="12" font-weight="bold">1800</text>
+<text x="150" y="177.0" fill="#ffffff" font-size="12" text-anchor="end">2026-11-18</text>
+<rect x="160" y="158" width="112.80000000000001" height="28" rx="4" fill="#E91E63" />
+<text x="280.8" y="177.0" fill="#00ffcc" font-size="12" font-weight="bold">940</text>
+<text x="150" y="213.0" fill="#ffffff" font-size="12" text-anchor="end">2026-11-19</text>
+<rect x="160" y="194" width="150.0" height="28" rx="4" fill="#9C27B0" />
+<text x="318.0" y="213.0" fill="#00ffcc" font-size="12" font-weight="bold">1250</text>
+<text x="150" y="249.0" fill="#ffffff" font-size="12" text-anchor="end">2026-11-20</text>
+<rect x="160" y="230" width="540.0" height="28" rx="4" fill="#00BCD4" />
+<text x="708.0" y="249.0" fill="#00ffcc" font-size="12" font-weight="bold">4500</text>
+<line x1="160" y1="50" x2="160" y2="360" stroke="#555555" stroke-width="2"/>
+<line x1="160" y1="360" x2="700" y2="360" stroke="#555555" stroke-width="2"/>
+</svg>
